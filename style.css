@@ -181,83 +181,7 @@ section div p {
     margin-top: 100px;
 }
 
-/* Sobre contato */
 
-.Contato {
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    flex-direction: column;
-    margin-top: 100px;
-    border-radius: 25px;
-    background: rgb(0, 0, 0);
-    width: 500px;
-    min-height: 40vh;
-    padding: 10px 45px;
-    margin: auto;
-    margin-top: 100px;
-}
-
-.Contato h2 {
-    color: aliceblue;
-    font-size: 2.5rem;
-    margin: 2.5rem;
-}
-
-.Contato form {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-}
-
-/*Formulário */
-form label {
-    color: aliceblue;
-    font-size: 17px;
-    margin-bottom: 4px;
-}
-
-form input {
-    padding: 15px;
-    outline: none;
-    border: 0;
-    margin-bottom: 20px;
-    font-size: 15px;
-    transition: 0.5s;
-    border-radius: 25px;
-}
-
-form input:focus {
-    border-radius: 25px;
-}
-
-form textarea {
-    padding: 10px;
-    border: 0;
-    margin-bottom: 30px;
-    transition: all 0.5s;
-    border-radius: 25px;
-}
-
-form textarea:focus {
-    border-radius: 25px;
-}
-
-form button {
-    padding: 15px;
-    cursor: pointer;
-    font-size: 16px;
-    background: #04023b;
-    color: aliceblue;
-    transition: 0.5;
-    border-radius: 25px;
-}
-
-form button:hover {
-    background-color: rgb(218, 4, 104);
-    transition: 0.5s;
-    ;
-}
 
 /*cards  caixinhas*/
 footer {
@@ -337,11 +261,6 @@ footer p {
     }
 
    
-
-    .Contato{
-        display: flex;
-        flex-direction: column;
-        width: 100%;
 
     }
 
