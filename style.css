@@ -336,13 +336,7 @@ footer p {
         justify-content: space-between;
     }
 
-    form {
-        flex-direction: column;
-        align-items: center;
-        justify-content: space-between;
-        text-align: center;
-        height: 450px;
-    }
+   
 
     .Contato{
         display: flex;
